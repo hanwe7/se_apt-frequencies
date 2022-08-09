@@ -16,7 +16,7 @@ Additionaly, radio frequencies for Class G airspace in some sectors of "Sweden C
 
 Sector      | Designation
 ---         | ---
-ESMM L      | SE-CTRL_S-Skåne
+ESMM L      | SE-CTRL_SE-Skåne
 ESMM K      | SE-CTRL_SW-Småland
 ESMM 4      | SE-CTRL_Bohuslän-Dalsland
 ESMM 5      | SE-CTRL_Västergötland
