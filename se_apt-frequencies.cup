@@ -1,4 +1,4 @@
-name,code,country,lat,lon,elev,style,rwdir,rwlen,rwwidth,freq,desc
+name,code,country,lat,lon,elev,style,rwdir,rwlen,rwwidth,freq,desc,userdata,pics
 "ALINGSÅS","ESGI",SE,5756.917N,01234.533E,67.0M,2,190,600.0M,123.650,
 "ANDERSTORP","ESMP",SE,5715.852N,01335.964E,155.0M,5,220,1000.0M,20.0M,123.200,"HW 220809"
 "ARBOGA","ESQO",SE,5923.283N,01555.283E,10.0M,5,330,2000.0M,135.000,
